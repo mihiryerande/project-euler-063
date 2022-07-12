@@ -10,7 +10,7 @@
 from math import ceil, floor, log10
 
 
-def main():
+def main() -> int:
     """
     Returns the count of positive integers
       which are each n-digits and an n'th power.
